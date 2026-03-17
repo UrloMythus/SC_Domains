@@ -18,10 +18,10 @@
     "last_status": 200
   },
   "cb01new": {
-    "domain": "life",
-    "full_url": "https://cb01uno.life/",
+    "domain": "click",
+    "full_url": "https://cb01uno.click/",
     "old_domain": "live",
-    "time_change": "2026-03-10 06:40:07",
+    "time_change": "2026-03-17 16:35:39",
     "last_status": 200
   },
   "cb01_2": {
@@ -39,7 +39,7 @@
   "guardoserie_2": {
     "domain": "cv",
     "full_url": "https://tantifilm.cv/",
-    "time_change": "2026-03-17 11:39:44",
+    "time_change": "2026-03-17 16:35:55",
     "last_status": 200
   },
   "altadefinizione": {
@@ -106,8 +106,8 @@
   "mappl": {
     "domain": "tv",
     "full_url": "https://mappl.tv/",
-    "time_change": "2026-03-15 18:30:51",
-    "last_status": 200
+    "time_change": "2026-03-17 16:36:04",
+    "last_status": 403
   },
   "hydrahd": {
     "domain": "ru",
