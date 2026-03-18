@@ -73,9 +73,9 @@
     "last_status": 403
   },
   "filmpertutti": {
-    "domain": "pics",
-    "full_url": "https://film-pertutti.pics/",
-    "time_change": "2026-03-17 08:44:22",
+    "domain": "skin",
+    "full_url": "https://film-pertutti.skin/",
+    "time_change": "2026-03-18 06:55:20",
     "last_status": 200
   },
   "tantifilm": {
@@ -86,9 +86,9 @@
     "last_status": 200
   },
   "tantifilm_2": {
-    "domain": "bond",
-    "full_url": "https://tanti-film.bond/",
-    "time_change": "2026-03-17 08:44:38",
+    "domain": "click",
+    "full_url": "https://tanti-film.click/",
+    "time_change": "2026-03-18 06:55:21",
     "last_status": 200
   },
   "casaciname": {
