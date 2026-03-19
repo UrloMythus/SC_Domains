@@ -61,10 +61,10 @@
     "last_status": 200
   },
   "guardaplay": {
-    "domain": "space",
-    "full_url": "https://guardaplay.space/",
-    "time_change": "2026-03-03 06:42:27",
-    "last_status": 200
+    "domain": "beer",
+    "full_url": "https://guardaplay.beer/",
+    "time_change": "2026-03-19 22:21:44",
+    "last_status": 403
   },
   "eurostreaming": {
     "domain": "ing",
